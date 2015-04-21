@@ -24,7 +24,7 @@ void Mergesort(char list[], int lowerBound, int upperBound);
 void radixsort(ItemType list[], int arraysize); // Radixsort for integers
 void radixsort(char list[], int arraysize); // Radixsort for characters
 
-void DisplayArray(ItemType data[], int N); // Display aray of integers
+void DisplayArray(ItemType data[], int N); // Display array of integers
 void DisplayArray(char data1[], int N); // Display array for characters
 
 
